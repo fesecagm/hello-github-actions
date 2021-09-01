@@ -15,4 +15,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: echo "Adding first smoji :smiling_face_with_three_hearts:"
+      - run: echo "Adding first smoji :bowtie:"
